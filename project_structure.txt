@@ -1,0 +1,50 @@
+Food Database
+      │
+      ▼
+Nutrition Engine
+      │
+      ▼
+Recipe/Meal Engine
+      │
+      ▼
+Meal Plan Generator
+      │
+      ▼
+Grocery List Generator
+      │
+      ▼
+Price Optimizer
+      │
+      ▼
+Power BI Dashboard
+      │
+      ▼
+Web/App Interface
+
+_______________________________
+
+food.csv
+    │
+    ▼
+Pandas Cleaning
+    │
+    ▼
+SQLite Database
+    │
+    ▼
+Nutrition Engine
+    │
+    ▼
+Recipe Database
+    │
+    ▼
+Meal Planner
+    │
+    ▼
+Price API Layer
+    │
+    ▼
+Power BI
+    │
+    ▼
+Web App

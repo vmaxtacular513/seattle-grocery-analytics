@@ -1,0 +1,8 @@
+Data cleaning - Python(Pandas)
+Database - SQLite -> PostgresSQL
+Queries - SQL
+Analytics - Power BI
+APIs - USDA, Walmart, Kroger, etc
+Backend - Python(FastAPI)
+Frontend/App - Streamlit or React
+Deployment - Azure
